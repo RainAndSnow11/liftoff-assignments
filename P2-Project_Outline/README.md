@@ -7,12 +7,32 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+See attached PDF.
+
+Pipe Dream is a restroom locator and reviewer similar to Yelp.  It will allow users to search for nearby restrooms and access information about those restrooms (including the type of business, its address and hours, and the features available at that location, such as wheelchair accessibility, changing tables, gender neutral options, etc.).  Users will also be able to create an account in order to add new restroom locations or rate and review an existing location.  In creating this application, we hope to provide a useful tool for people needing ADA-compliant or gender-neutral facilities, parents or caregivers of young children, and people who are travelling in an unfamiliar area.
+
 ### Features
-Include Features here
+
+Search: By location, features, and/or business.
+Create post: Users can submit a new restroom location or post a review of an existing restroom.
+User login (With authentication): Users will be able to log in to create posts, see previous posts, and add new restrooms.
+
 ### Technologies
-Include Technologies here
+
+App Functionality: A REST API with Java and JavaScript (React) 
+Appearance: BootStrap
+Map: Google API for the locations of restrooms
+Database: MySQL
+Data: Yelp’s Open Source Data Set (JSON files)
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+React
+How to build a REST API.
+How to use data from a public API.
+How to write client-side and server-side code separately and combine them into one application.
+
 ### Project Tracker
-Link to your Trello board here
+
+https://trello.com/b/GAjzgQS9/liftoff-project
