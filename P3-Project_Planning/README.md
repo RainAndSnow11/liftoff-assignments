@@ -14,8 +14,8 @@ See attached files.
 
 
 <ul>
-  <li><a href="https://github.com/RainAndSnow11/liftoff-assignments/blob/master/P3-Project_Planning/Pipe%20Dream%20Wireframes.pdf">Wireframes 1</a></li></li>
-  <li><a href="https://github.com/RainAndSnow11/liftoff-assignments/blob/master/P3-Project_Planning/Pipe%20Dream%20Wireframes%202.pdf">Wireframes 2</a></li></li>
+  <li><a href="https://github.com/RainAndSnow11/liftoff-assignments/blob/master/P3-Project_Planning/Pipe%20Dream%20Wireframes.pdf">Wireframes 1-3</a></li></li>
+  <li><a href="https://github.com/RainAndSnow11/liftoff-assignments/blob/master/P3-Project_Planning/Pipe%20Dream%20Wireframes%202.pdf">Wireframes 4-6</a></li></li>
 </ul>
 
 
